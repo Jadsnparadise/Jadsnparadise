@@ -1,6 +1,6 @@
 ### Hi there I'm Jonas Sena 👋
 
-- 🌱 I’m currently learning HTML, CSS , JavaScript, C++ and C#(unity);
+- 🌱 I’m currently learning HTML, CSS, JavaScript, C++ and C#(unity);
 - 😄 Pronouns: He/Him
 
 <div align="left">
