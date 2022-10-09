@@ -1,6 +1,6 @@
 ### Hi there I'm Jonas Sena 👋
 
-- 🌱 I’m currently learning C++(college) and focused on game development C#(unity);
+- 🌱 I’m currently learning Java(college) and focused on game development C#(unity);
 - 😄 Pronouns: He/Him
 
 <div align="left">
@@ -16,6 +16,7 @@
   <img align="center" alt="Jadsn-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Jadsn-Cpp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Jadsn-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Jadsn-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
   
   ##
