@@ -1,4 +1,4 @@
-### Hi there I'm Jonas Sena 👋
+### Hi there, I'm Jonas Sena 👋
 
 - 🌱 I’m currently learning Java(college) and focused on game development C#(unity);
 - 😄 Pronouns: He/Him
