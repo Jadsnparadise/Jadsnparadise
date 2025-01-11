@@ -1,7 +1,6 @@
 ### Hi there, I'm Jonas Sena 👋
 
 - 🌱 I’m currently learning game development with Unity and C#;
-- 😄 Pronouns: He/Him
 
 <div align="left">
   <a href="https://github.com/Jadsnparadise">
