@@ -1,6 +1,7 @@
 ### Hi there, I'm Jonas Sena 👋
 
-- 🌱 I’m currently learning game development with Unity and C#;
+- 🎯 I'm a Unity game developer with more than 2.5 years of experience;
+- 🌱 I’m currently learning multiplayer game development with Unity Netcode and Unity Relay;
 
 <div align="left">
   <a href="https://github.com/Jadsnparadise">
