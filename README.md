@@ -1,8 +1,8 @@
 ### Hi there, I'm Jonas Sena 👋
 
-- 🎯 I'm a Unity game developer with 3 years of experience;
-- 🌱 Currently learning multiplayer game development with Unity Netcode and Unity Relay;
-- 🧑‍💻 Starting to learn game development with c++ for fun.
+- 🎯 I'm a Game developer with over 3 years of experience on PC and mobile games;
+- 🌱 Currently working on Grau é arte Online and FixaBR for Santos Games;
+- 🧑‍💻 Learning game development with c++ with Unreal for fun.
   ##
   
   <div> 
