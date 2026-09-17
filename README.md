@@ -2,7 +2,7 @@
 
 - 🎯 I'm a Game developer with over 3 years of experience on PC and mobile games;
 - 🌱 Currently working on Grau é arte Online and FixaBR for Santos Games;
-- 🧑‍💻 Learning game development with c++ with Unreal for fun.
+- 🧑‍💻 Learning game development in c++ with Unreal for fun.
   ##
   
   <div> 
